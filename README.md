@@ -31,8 +31,24 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   
 </p>
-## My projects
-<br>
+ <h1>My Project</h1>
+    <br>
+    <table>
+<thead>
+    <tr>
+    <th>Project Name</th>
+    <th>Libraries and Technologies</th>
+    <th>How does my project look</th>
+</tr>
+</thead>
+<tbody>
+    <tr>
+        <th> <a href="">Random User App</a> </th>
+<th>React, Axios</th>
+<th><img src="" alt=""></th>
+    </tr>
+</tbody>
+    </table>
 
 
 <p align="center">
