@@ -31,6 +31,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   
 </p>
+## My projects
+  Project Name       |Libraries and Technologies I use     |How does my project look
+:-------------------------|-------------------------|-------------------------
+[Random User App](https://r-user-app-esra.netlify.app/)| React, Local Storage, React Hooks, Axios |![Random User App](https://github.com/Yalcinesra/Random-User-App)
+[Appointment App](https://appointment-esra.netlify.app/)| React, Local Storage, React Hooks |![Appointment App](https://github.com/Yalcinesra/Appointment)
 - 
 ## Contact Me
 
