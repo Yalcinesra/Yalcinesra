@@ -32,12 +32,9 @@
   
 </p>
 ## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look
-:-------------------------|-------------------------|-------------------------
-[Random User App](https://r-user-app-esra.netlify.app/)| React, Local Storage, React Hooks, Axios |![Random User App](https://github.com/Yalcinesra/Random-User-App)
-[Appointment App](https://appointment-esra.netlify.app/)| React, Local Storage, React Hooks |![Appointment App](https://github.com/Yalcinesra/Appointment)
-- 
-## Contact Me
+| Project Name | Libraries and Technologies | Libraries and Technologies|
+|............| ..........................|........................|
+
 
 <p align="center">
   <a href="https://yalcinesra.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
