@@ -32,8 +32,7 @@
   
 </p>
 ## My projects
-| Project Name | Libraries and Technologies | Libraries and Technologies|
-|............| ..........................|........................|
+<br>
 
 
 <p align="center">
