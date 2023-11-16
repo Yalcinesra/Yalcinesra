@@ -43,9 +43,9 @@
 </thead>
 <tbody>
     <tr>
-        <th> <a href="">Random User App</a> </th>
+        <th> <a href="https://r-user-app-esra.netlify.app/">Random User App</a> </th>
 <th>React, Axios</th>
-<th><img src="" alt=""></th>
+<th><img src="https://github.com/Yalcinesra/Random-User-App/blob/main/random-user-app.gif" alt=""></th>
     </tr>
 </tbody>
     </table>
