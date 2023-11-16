@@ -49,13 +49,27 @@
     </tr>
   <tr>
         <th> <a href="https://tutorial-esra.netlify.app/">Tutorial</a> </th>
-<th>React, Axios</th>
+<th>React</th>
 <th><img src="https://github.com/Yalcinesra/tutorial/blob/main/11-16%20183910.png" alt=""></th>
     </tr>
   <tr>
-        <th> <a href="https://appointment-esra.netlify.app/">Tutorial</a> </th>
+        <th> <a href="https://appointment-esra.netlify.app/"> Appointment App</a> </th>
 <th>React, Axios</th>
 <th><img src="https://github.com/Yalcinesra/Appointment/blob/main/project.gif" alt=""></th>
+    </tr>
+   <tr>
+        <th> <a href="https://nba-legends-search.netlify.app/">NBA Legends</a> </th>
+<th>React</th>
+<th><img src="https://github.com/Yalcinesra/NBA/blob/main/nba-legends.gif" alt=""></th>
+    </tr>
+  <tr>
+        <th> <a href="https://react-todo-app-create.netlify.app/">ToDo App</a> </th>
+<th>React</th>
+<th><img src="https://github.com/Yalcinesra/Todo-App/blob/main/todoapp-uuid.gif" alt=""></th>
+    </tr>
+  <th> <a href="https://horoscope-esra.netlify.app//">Horoscope</a> </th>
+<th>React</th>
+<th><img src="https://github.com/Yalcinesra/horoscope/blob/main/11-16%20214302.png" alt=""></th>
     </tr>
 </tbody>
     </table>
