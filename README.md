@@ -67,9 +67,15 @@
 <th>React</th>
 <th><img src="https://github.com/Yalcinesra/Todo-App/blob/main/todoapp-uuid.gif" alt=""></th>
     </tr>
-  <th> <a href="https://horoscope-esra.netlify.app//">Horoscope</a> </th>
+  <tr>
+  <th> <a href="https://horoscope-esra.netlify.app/">Horoscope</a> </th>
 <th>React</th>
 <th><img src="https://github.com/Yalcinesra/horoscope/blob/main/11-16%20214302.png" alt=""></th>
+    </tr>
+   <tr>
+  <th> <a href="https://imagegallery-new.netlify.app/">Image Gallery</a> </th>
+<th>React</th>
+<th><img src="https://github.com/Yalcinesra/imageGallery/blob/main/gallery.gif" alt=""></th>
     </tr>
 </tbody>
     </table>
