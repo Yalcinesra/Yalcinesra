@@ -56,6 +56,7 @@
     </tr>
 </tbody>
     </table>
+    
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Yalcinesra&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yalcinesra&hide=TeX&layout=compact) </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yalcinesra.Yalcinesra)
