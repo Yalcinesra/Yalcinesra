@@ -19,6 +19,14 @@
 </tr>
 </thead>
 <tbody>
+  <tr>
+        
+    
+ <th> <a href="https://shopping-card-esra.netlify.app/" target="_blank">ShoppingCard App</a> </th>
+    </tr>" target="_blank"></a> </th>
+<th>React, Axios</th>
+<th><img src="" alt="https://github.com/Yalcinesra/Shopping-Card/blob/main/shopping-cart.gif"></th>
+    </tr>
     <tr>
         <th> <a href="https://r-user-app-esra.netlify.app/" target="_blank">Random User App</a> </th>
 <th>React, Axios</th>
