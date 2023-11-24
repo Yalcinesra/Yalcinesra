@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Esra Yalcin
 #### Web developer from Germany
-![Web developer from Germany](https://de.webmasters-europe.org/system/webmasters_cms/files/files/000/000/108/original/shutterstock_1021030363_k.png?1602950816)
+![Web developer from Germany]
 
 <p align="center">
  I am a graduate of Selcuk University Computer Systems teaching and worked as an information technologies teacher for 8 years. While I was learning C++ and Java programming languages during my university education, I also learned to use important web development tools such as HTML, CSS and Photoshop.
