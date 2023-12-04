@@ -16,6 +16,11 @@
 </tr>
 </thead>
 <tbody>
+ <tr>
+        <th> <a href="https://recipeapp-esra.netlify.app/" target="_blank">Recipe App</a> </th>
+<th>React, Axios</th>
+<th><img src="https://github.com/Yalcinesra/RecipeApp/blob/main/recipe.gif" alt=""></th>
+    </tr>
   <tr>
         <th> <a href="https://shopping-card-esra.netlify.app/" target="_blank">ShoppingCard App</a> </th>
 <th>React, Axios</th>
