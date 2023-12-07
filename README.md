@@ -17,13 +17,18 @@
 </thead>
 <tbody>
  <tr>
+        <th> <a href="https://portfolionew-esra.netlify.app/" target="_blank">Portfolio</a> </th>
+<th>React, Axios,Router</th>
+<th><img src="https://github.com/Yalcinesra/portfolio/blob/main/portfolio.gif" alt=""></th>
+    </tr>
+ <tr>
         <th> <a href="https://recipeapp-esra.netlify.app/" target="_blank">Recipe App</a> </th>
-<th>React, Axios</th>
+<th>React, Axios,Router</th>
 <th><img src="https://github.com/Yalcinesra/RecipeApp/blob/main/recipe.gif" alt=""></th>
     </tr>
   <tr>
         <th> <a href="https://shopping-card-esra.netlify.app/" target="_blank">ShoppingCard App</a> </th>
-<th>React, Axios</th>
+<th>React, Axios,Router</th>
 <th><img src="https://github.com/Yalcinesra/Shopping-Card/blob/main/shopping-cart.gif" alt=""></th>
     </tr>
     <tr>
