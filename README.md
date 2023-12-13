@@ -81,7 +81,7 @@
 
 ## Skills
 
-<p align="left">
+<p align="center">
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -105,7 +105,7 @@
   <a href="https://www.linkedin.com/in/Yalcinesra/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
 - 
-- <p align="right">
+- <p align="center">
   <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" align="right" style="width:300px" />
  </p>
 <!--
