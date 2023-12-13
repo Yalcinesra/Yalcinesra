@@ -100,9 +100,9 @@
   
 </p>
 <p align="center">
-  <a href="https://yalcinesra.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
+  <a href="https://portfolionew-esra.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
   <a href="mailto:yalcinaceresra@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
-  <a href="https://www.linkedin.com/in/Yalcinesra/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
+  <a href="www.linkedin.com/in/esra--yalcin" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
 - 
 - <p align="center">
