@@ -2,7 +2,7 @@
 #### Web developer from Germany
 
 <p align="center">
- I am a graduate of Selcuk University Computer Systems teaching and worked as an information technologies teacher for 8 years. While I was learning C++ and Java programming languages during my university education, I also learned to use important web development tools such as HTML, CSS and Photoshop. Throughout my career, I have gained various experiences in computer technologies and computing. I worked as an IT leader at Deutsches Rotes Kreuz for 6 months, during which I was responsible for managing and developing the technology infrastructure.
+ I am a graduate of University Computer Systems teaching and worked as an information technologies teacher for 8 years. While I was learning C++ and Java programming languages during my university education, I also learned to use important web development tools such as HTML, CSS and Photoshop. Throughout my career, I have gained various experiences in computer technologies and computing. I worked as an IT leader at Deutsches Rotes Kreuz for 6 months, during which I was responsible for managing and developing the technology infrastructure.
  </p>
 
 <h1 style= text-align:center;>My Project</h1>
@@ -16,9 +16,14 @@
 </tr>
 </thead>
 <tbody>
+ <tr>
+        <th> <a href="https://yalcin-shopping-app.netlify.app/" target="_blank">Movie-App</a> </th>
+<th>React, Axios,Router,Redux,Material UI</th>
+<th><img src="https://github.com/Yalcinesra/yalcin-shopping-app/blob/main/shopping.gif" alt=""></th>
+    </tr>
   <tr>
         <th> <a href="https://movie-app-esra.netlify.app/" target="_blank">Movie-App</a> </th>
-<th>React, Axios,Router</th>
+<th>React, Axios,Router,Material UI</th>
 <th><img src="https://github.com/Yalcinesra/movie/blob/main/movie.gif" alt=""></th>
     </tr>
  <tr>
