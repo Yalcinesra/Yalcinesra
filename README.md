@@ -45,12 +45,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yalcinesra&hide=TeX&layout=compact) </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yalcinesra.Yalcinesra)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-userYalcinesra&theme=chartreuse-dark" alt="my commit status" width="49%" />
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?
-username=Yalcinesra&theme=chartreuse-dark&layout=compact" alt="languages" 
-width="50%">
 
 
 
