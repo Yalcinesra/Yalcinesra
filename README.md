@@ -47,14 +47,11 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?
 userYalcinesra&theme=chartreuse-dark" alt="my commit status" width="49%" />
-Görünüşü
-En Çok Kullanılan Dil İstatistikleri
-Kod:
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
 username=Yalcinesra&theme=chartreuse-dark&layout=compact" alt="languages" 
 width="50%">
-Görünüşü:
-LİNK EKLEME
+
 
 
 <h1 style= text-align:center;>My Project</h1>
