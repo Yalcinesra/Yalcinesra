@@ -4,9 +4,7 @@
 <p align="center">
  I am a graduate of University Computer Systems teaching and worked as an information technologies teacher for 8 years. While I was learning C++ and Java programming languages during my university education, I also learned to use important web development tools such as HTML, CSS and Photoshop. Throughout my career, I have gained various experiences in computer technologies and computing. I worked as an IT leader at Deutsches Rotes Kreuz for 6 months, during which I was responsible for managing and developing the technology infrastructure.
  </p>
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Yalcinesra&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yalcinesra&hide=TeX&layout=compact) </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yalcinesra.Yalcinesra)
+ 
 
 ## Skills
 
@@ -42,6 +40,10 @@
 Here are some ideas to get you started:
 - :telescope: I'
 -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Yalcinesra&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yalcinesra&hide=TeX&layout=compact) </br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yalcinesra.Yalcinesra)
 <h1 style= text-align:center;>My Project</h1>
     <br>
     <table>
