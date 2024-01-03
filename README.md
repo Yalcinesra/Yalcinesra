@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </thead>
 <tbody>
  <tr>
-        <th> <a href="https://yalcin-shopping-app.netlify.app/" target="_blank">Movie-App</a> </th>
+        <th> <a href="https://yalcin-shopping-app.netlify.app/" target="_blank">Shopping-App</a> </th>
 <th>React, Axios,Router,Redux,Material UI</th>
 <th><img src="https://github.com/Yalcinesra/yalcin-shopping-app/blob/main/shopping.gif" alt=""></th>
     </tr>
@@ -69,36 +69,20 @@ Here are some ideas to get you started:
 <th>React, Axios,Router,Material UI</th>
 <th><img src="https://github.com/Yalcinesra/movie/blob/main/movie.gif" alt=""></th>
     </tr>
- <tr>
-        <th> <a href="https://portfolionew-esra.netlify.app/" target="_blank">Portfolio</a> </th>
-<th>React, Axios,Router</th>
-<th><img src="https://github.com/Yalcinesra/portfolio/blob/main/portfolio.gif" alt=""></th>
-    </tr>
- <tr>
-        <th> <a href="https://recipeapp-esra.netlify.app/" target="_blank">Recipe App</a> </th>
-<th>React, Axios,Router</th>
-<th><img src="https://github.com/Yalcinesra/RecipeApp/blob/main/recipe.gif" alt=""></th>
-    </tr>
+ 
+ 
   <tr>
         <th> <a href="https://shopping-card-esra.netlify.app/" target="_blank">ShoppingCard App</a> </th>
 <th>React, Axios,Router</th>
 <th><img src="https://github.com/Yalcinesra/Shopping-Card/blob/main/shopping-cart.gif" alt=""></th>
     </tr>
-    <tr>
-        <th> <a href="https://r-user-app-esra.netlify.app/" target="_blank">Random User App</a> </th>
-<th>React, Axios</th>
-<th><img src="https://github.com/Yalcinesra/Random-User-App/blob/main/random-user-app.gif" alt=""></th>
-    </tr>
+   
   <tr>
         <th> <a href="https://tutorial-esra.netlify.app/" target="_blank">Tutorial</a> </th>
 <th>React</th>
 <th><img src="https://github.com/Yalcinesra/tutorial/blob/main/11-16%20183910.png" alt=""></th>
     </tr>
-  <tr>
-        <th> <a href="https://appointment-esra.netlify.app/" target="_blank"> Appointment App</a> </th>
-<th>React, Axios</th>
-<th><img src="https://github.com/Yalcinesra/Appointment/blob/main/project.gif" alt=""></th>
-    </tr>
+  
    <tr>
         <th> <a href="https://nba-legends-search.netlify.app/" target="_blank">NBA Legends</a> </th>
 <th>React</th>
@@ -114,11 +98,7 @@ Here are some ideas to get you started:
 <th>React</th>
 <th><img src="https://github.com/Yalcinesra/horoscope/blob/main/11-16%20214302.png" alt=""></th>
     </tr>
-   <tr>
-  <th> <a href="https://imagegallery-new.netlify.app/" target="_blank">Image Gallery</a> </th>
-<th>React</th>
-<th><img src="https://github.com/Yalcinesra/imageGallery/blob/main/gallery.gif" alt=""></th>
-    </tr>
+  
 </tbody>
     </table>
     
